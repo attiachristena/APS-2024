@@ -35,9 +35,9 @@ public class PacchettoVacanza {
 
 // classe Catalogo (da package Domain)
 public class Catalogo{
-    public void inserisciPacchettoVacanza{…}
+    public void inserisciPacchettoVacanza(){...}
     public void inserisciDatiPacchetto(double costo, int periodoSoggiorno, string tipologia, string alloggio, int numPersone){
     PacchettoVacanza p = new PacchettoVacanza(costo, periodoSoggiorno, tipologia, alloggio, numPersone);
     }
-    public void aggiungiPacchetto(PacchettoVacanza p){…}
+    public void aggiungiPacchetto(PacchettoVacanza p){...}
 }
