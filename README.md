@@ -1,9 +1,11 @@
 # APS-2024
 
-## Lavori di gruppo
-I lavori di gruppo sono caricati nella root folder della repository. Carico sia il vpp che il pdf+docx ogni volta che lo aggiorniamo
+Progetto del preappello di Analisi e Progettazione del Software A.A 23/24
 
-## Lavori di gruppo ma singoli
-Quando ci sono dei lavori come nel secondo laboratorio, che pressochè sono singoli alla fine, li carichiamo nelle cartelle di ciascuno di noi (P.S. se ci sono altri laboratori fatti in questo modo, o facciamo altre sottocartelle da 
+Gruppo: I Quarantaduesimi
 
-``` `<> Code` > Codespaces > new codespace > su VSCode)
+Componenti:
+Christena Attia
+Daniela Lorriz Bautista
+Edoardo Bellucci
+Francesco Cattaneo
