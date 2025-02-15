@@ -5,7 +5,7 @@ Progetto del preappello di Analisi e Progettazione del Software A.A 23/24
 Gruppo: I Quarantaduesimi
 
 Componenti:
-Christena Attia
-Daniela Lorriz Bautista
-Edoardo Bellucci
-Francesco Cattaneo
+1) Christena Attia
+2) Daniela Lorriz Bautista
+3) Edoardo Bellucci
+4) Francesco Cattaneo
