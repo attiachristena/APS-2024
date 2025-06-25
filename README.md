@@ -9,3 +9,5 @@ Componenti:
 2) Daniela Lorriz Bautista
 3) Edoardo Bellucci
 4) Francesco Cattaneo
+
+Voto finale: 30
